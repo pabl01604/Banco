@@ -1,0 +1,14 @@
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\bin\Debug\ProyectoBanco.exe.config
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\bin\Debug\ProyectoBanco.exe
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\bin\Debug\ProyectoBanco.pdb
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Properties.Resources.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Vistas.Maestro.FrmConsultar.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Vistas.FrmMaestro.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Vistas.FrmPrincipal.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Vistas.Soporte.FrmConsultarC.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.Vistas.Soporte.FrmNCliente.resources
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.exe
+C:\Users\Pablo\Documents\Prog II-LocalProyectos\ProyectoBanco\obj\Debug\ProyectoBanco.pdb
